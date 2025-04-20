@@ -64,7 +64,7 @@ Commands;
 
 Power: Medium, useful within data sci ecosystem
 
-##Bandit
+## Bandit
 
 ## Level 0
 
