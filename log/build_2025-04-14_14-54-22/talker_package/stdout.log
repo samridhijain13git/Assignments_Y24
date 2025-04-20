@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing talker_package.egg-info/PKG-INFO
+writing dependency_links to talker_package.egg-info/dependency_links.txt
+writing entry points to talker_package.egg-info/entry_points.txt
+writing requirements to talker_package.egg-info/requires.txt
+writing top-level names to talker_package.egg-info/top_level.txt
+reading manifest file 'talker_package.egg-info/SOURCES.txt'
+writing manifest file 'talker_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/samridhi/Desktop/ros2_ws/install/talker_package/lib/python3.10/site-packages/talker-package.egg-link (link to .)
+
+Installed /home/samridhi/Desktop/ros2_ws/build/talker_package
+running symlink_data
+symbolically linking /home/samridhi/Desktop/ros2_ws/build/talker_package/resource/talker_package -> /home/samridhi/Desktop/ros2_ws/install/talker_package/share/ament_index/resource_index/packages
+symbolically linking /home/samridhi/Desktop/ros2_ws/build/talker_package/package.xml -> /home/samridhi/Desktop/ros2_ws/install/talker_package/share/talker_package

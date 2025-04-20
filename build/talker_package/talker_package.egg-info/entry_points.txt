@@ -1,0 +1,5 @@
+[console_scripts]
+launcher_node = talker_package.launcher_node:main
+publisher_node = talker_package.publisher_node:main
+talker_node = talker_package.talker_node:main
+
