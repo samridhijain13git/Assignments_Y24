@@ -3,7 +3,7 @@
 Shell is the outer layer that helps the user interact with the kernel.
 In general, shell can be classified as Command Line Interface and Graphical User Interface
 
-##Cmd(Command Prompt):
+## Cmd(Command Prompt):
 This is the default shell of windows
 
 Use cases:
@@ -17,7 +17,7 @@ dir, cd, del, copy, move
 
 Power: low, as it does not support piping(way of connecting commands) with complex logic, variable manipulation
 
-##bash(Bourne Again Shell):
+## bash(Bourne Again Shell):
 Default shell of linux/ macOS
 
 Use Cases:
@@ -33,7 +33,7 @@ Commands:
 Power: 
 - High, extremely flexible; supports complex scripting, task automation, environment configuration
 
-##PowerShell:
+## PowerShell:
 - Advanced windows shell
 - Also available on linux/macOS
 
@@ -52,7 +52,7 @@ Power:
 Very high, Designed for automation and complex system management; full access to Windows internals and .NET
 
 
-##Anaconda Prompt:
+## Anaconda Prompt:
 Use cases:
 - Specifically for Python and data science workflows
 - Managing conda(tool to manage Python packages and create clean, separate environments for each project.) environments and packages
@@ -64,7 +64,7 @@ Commands;
 
 Power: Medium, useful within data sci ecosystem
 
-##Bandit
+## Bandit
 
 ## Level 0
 
