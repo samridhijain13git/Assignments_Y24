@@ -22,7 +22,7 @@ Check all the files
 Level 6
 Pswd- 
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-loop though all the files
+find . -type f -size 1033c ! executable
 
 Level - 7
 Pswd- morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
@@ -38,3 +38,6 @@ Using sort data.txt | uniq -c
 
 level 10
 pswd - FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+strings data.txt | grep '='/
+strings data.txt | awk '/=+/{print $0}'
+
