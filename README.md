@@ -1,4 +1,1 @@
-assignment for AUV JTMS task<br>
-bandit<br>
-cv<br>
-shell<br>
+This repo has assignment submissions for the common training for JTMs 25-26.
