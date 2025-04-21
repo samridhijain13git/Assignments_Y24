@@ -7,12 +7,12 @@ This ROS 2 package contains:
 
 # Tree : 
 - ros2_assignment/
-- ├── launch/
-- │   └── talk_listen_launch.py
-- ├── ros2_assignment/
-- │   ├── __init__.py
-- │   ├── talker.py
-- │   └── listener.py
-- ├── package.xml
-- └── setup.py
+  ├── launch/
+  │   └── talk_listen_launch.py
+  ├── ros2_assignment/
+  │   ├── __init__.py
+  │   ├── talker.py
+  │   └── listener.py
+  ├── package.xml
+  └── setup.py
 
